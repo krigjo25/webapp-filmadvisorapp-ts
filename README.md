@@ -11,7 +11,7 @@ FilmAdvisor is a social movie discovery platform designed to eliminate decision 
 * **User Management**: Secure registration and profile customization, including personal bios and profile imagery.
 
 ## Installation and Technical Setup
-The application is built using a clean, modular JavaScript architecture, making it easy to deploy in any modern web environment.
+The application is built using a clean, modular TypeScript architecture, bundled with Vite for a fast and modern development experience.
 
 ### Prerequisites
 * A modern web browser (Google Chrome, Mozilla Firefox, or Microsoft Edge).
@@ -19,8 +19,8 @@ The application is built using a clean, modular JavaScript architecture, making 
 
 ### Deployment Steps
 1.  **Clone or Download**: Download the repository and extract the contents of the zip file.
-2.  **Directory Navigation**: Ensure the statics/js folder is present, as it contains the Model-View-Controller (MVC) logic.
-3.  **Launch**: Open the index.html file in your browser to initialize the application.
+2.  **Installation**: Run `npm install` to install dependencies (Vite and TypeScript).
+3.  **Launch**: Run `npm run dev` to start the Vite development server.
 4.  **Database Initialisation**: The app starts with pre-loaded data for films such as Godfather and Star Wars to demonstrate functionality.
 
 ## Architecture
