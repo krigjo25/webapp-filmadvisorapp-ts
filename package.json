@@ -1,0 +1,24 @@
+{
+  "name": "webapp-filmadvisorapp",
+  "version": "1.0.0",
+  "description": "**FilmAdvisor connects you with friends to discover the perfect movie. Save time with social recommendations and ratings tailored to your unique taste.**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krigjo25/webapp-filmadvisorapp-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/krigjo25/webapp-filmadvisorapp-js/issues"
+  },
+  "homepage": "https://github.com/krigjo25/webapp-filmadvisorapp-js#readme"
+}
